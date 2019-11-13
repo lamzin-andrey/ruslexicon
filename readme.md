@@ -86,10 +86,8 @@ echo RusLexicon::getMeasureWordMorph(0, 'day', 'days', 'days') . "\n";   //> day
 
 #### Description
 
-Изменяет наименование населённого пункта так, чтобы оно корректно отображалось с предлогом "в".
-Например "Москва" -> "Москве".
-
 Russian utf-8 only. Change city or town name for using with "in the".
+For example "Москва" -> "Москве".
 
 #### Example
 
