@@ -27,10 +27,9 @@ echo RusLexicon::getMeasureWordMorph(0, 'день', 'дня', 'дней') . "\n"
 
 ## About
 
-#Это набор функций для изменения формы слов в русском языке
-This functions scope for transform word in Russian Language. For example, in Russian language mesure unit may change depends of value.
+This functions scope for transform word from Russian Language. For example, in Russian language mesure unit may change depends of value.
 In English Language phrases "four days",  "twenty one days" always have the last word "days", but in Russian Language this phrases
-will can different last words.
+will have different last words.
 
 ## Installation
 
