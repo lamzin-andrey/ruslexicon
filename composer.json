@@ -1,6 +1,7 @@
 {
     "name": "landlib/ruslexicon",
     "keywords": ["Русский язык", "единицы измерения", "склонение числительных"],
+    "homepage": "https://github.com/lamzin-andrey/ruslexicon",
     "description": "Набор функций для изменения слов в русском языке",
     "license": "MIT",
     "require": {
