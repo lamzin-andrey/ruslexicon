@@ -1,0 +1,22 @@
+{
+    "name": "landlib/ruslexicon",
+    "keywords": ["Русский язык", "единицы измерения", "склонение числительных"],
+    "description": "Набор функций для изменения слов в русском языке",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.9"
+    },
+     "authors": [
+        {
+            "name": "Andrey Lamzin",
+            "email": "lamzin.an@gmail.com",
+            "homepage": "https://github.com/lamzin-andrey",
+            "role": "Developer"
+      }
+    ],
+    "autoload": {
+        "psr-4": {
+			"Landlib\\": "src/"
+        }
+    }
+}
